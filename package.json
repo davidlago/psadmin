@@ -1,13 +1,13 @@
 {
   "name": "psadmin",
   "version": "1.0.0",
-  "description": "",
+  "description": "React and Flux Pluralsight course repo",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "David Lago",
+  "license": "MIT",
   "dependencies": {
     "bootstrap": "^3.3.5",
     "browserify": "^11.0.1",
